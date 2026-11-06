@@ -4,10 +4,12 @@ Repositório criado para centralizar projetos desenvolvidos combinando **Intelig
 ## 🎮 1. Jogo da Cobrinha (Snake Game)
 Jogo clássico feito com estrutura base via IA e refinamentos manuais na lógica de colisão e velocidade.
 * **🔗 Código Fonte:** https://github.com/Lulunna/Jogo_cobrinha
+* **🌐 Link de Demonstração:** https://lulunna.github.io/Jogo_cobrinha/
 
 ## 📝 2. Gerenciador de Tarefas (To-Do List)
 Aplicação web funcional para organização de tarefas, focada em manipulação de elementos na tela e ajustes manuais de interface.
 * **🔗 Código Fonte:** https://github.com/Lulunna/Lista-de-tarefas
+* **🌐 Link de Demonstração:** https://lulunna.github.io/Lista-de-tarefas/
 
 ## 🛠️ Como trabalhei (O Diferencial)
 * **Engenharia de Prompts (Claude):** Utilizei o Claude para acelerar o desenvolvimento, gerando a estrutura inicial e a lógica base dos projetos.
